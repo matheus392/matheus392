@@ -1,4 +1,5 @@
 - sou do brasil 🇧🇷
+- sou aluno do (https://cursos.alura.com.br/dashboard)
 - gosto de futebol
 - estou desenvolvendo o jogo pong 🏓
 - estudo no colégio Morelli
